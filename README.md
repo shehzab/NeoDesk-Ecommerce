@@ -92,6 +92,14 @@ NeoDesk is a modern e-commerce platform built using the MERN (MongoDB, Express, 
 - **Frontend Performance**: Maintaining fast loading times and responsiveness using Vite and Tailwind CSS.
 - **Error Handling**: Managing API errors, invalid user inputs, and failed transactions gracefully.
 
+## Future Enhancements
+- **Mobile Responsiveness**: Improve UI to be fully responsive across all devices.
+- **Chatbot Integration**: Implement an AI-powered chatbot for customer support.
+- **Advanced Admin Dashboard**: Enhance the admin panel with more analytics and management tools.
+- **More Payment Options**: Expand payment gateway support beyond PayPal.
+- **AI-driven Recommendations**: Introduce personalized product recommendations using AI.
+- **Multi-Vendor Support**: Allow multiple sellers to list products on the platform.
+
 ## Conclusion
 NeoDesk is a fully functional and scalable e-commerce platform designed with modern technologies. With a robust admin dashboard, secure user authentication, OTP-based password recovery, and a smooth shopping experience, it serves as an efficient solution for online retail businesses. Future enhancements may include AI-driven recommendations, multi-vendor support, and enhanced payment options.
 
