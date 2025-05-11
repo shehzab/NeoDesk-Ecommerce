@@ -103,25 +103,26 @@ NeoDesk is a modern e-commerce platform built using the MERN (MongoDB, Express, 
 ## Conclusion
 NeoDesk is a fully functional and scalable e-commerce platform designed with modern technologies. With a robust admin dashboard, secure user authentication, OTP-based password recovery, and a smooth shopping experience, it serves as an efficient solution for online retail businesses. Future enhancements may include AI-driven recommendations, multi-vendor support, and enhanced payment options.
 
+
 ## Installation Guide
-# Clone the repository
-git clone https://github.com/shehzab/NeoDesk-Ecommerce.git
-
-# Navigate to project directory
-cd NeoDesk-Ecommerce
-
-# Install dependencies for frontend
-cd frontend
-npm install
-
-# Install dependencies for backend
-cd ../backend
-npm install
-
-# Create a .env file and add your environment variables
-
-# Run the project
-npm run dev
+      # Clone the repository
+      git clone https://github.com/shehzab/NeoDesk-Ecommerce.git
+      
+      # Navigate to project directory
+      cd NeoDesk-Ecommerce
+      
+      # Install dependencies for frontend
+      cd frontend
+      npm install
+      
+      # Install dependencies for backend
+      cd ../backend
+      npm install
+      
+      # Create a .env file and add your environment variables
+      
+      # Run the project
+      npm run dev
 
 
 ## License
